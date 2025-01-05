@@ -134,10 +134,10 @@ if x=="yes":
     else:
         print("\n\tOK,THANK YOU")
 v=int(input("Enter the phone number:"))
-account_sid = "AC949ff01b8bf33c99d655f948c45d6a6c"
-auth_token = "40d7d4878926928f8b473c3dc313f06d"
-verify_sid = "VA3485b8747ba3de6ec3950ae958dfe4b0"
-verified_number = "+919514486659"
+account_sid = " ACCOUNT ID"
+auth_token = "AUTH TOKEN"
+verify_sid = "VERIFY ID"
+verified_number = "PHONE NUMBER"
 
 client = Client(account_sid, auth_token)
 
