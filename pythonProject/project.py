@@ -155,7 +155,7 @@ print("otp verified ")
 print("Yor booking was done successfully")
 time.sleep(1)
 print("\n\tOK,THANK YOU")
-print("\n\t FOR FURTHER DETAILS:\n Please contact us:9514486659")
+print("\n\t FOR FURTHER DETAILS:\n Please contact us:##########")
 
 
 
